@@ -1,3 +1,6 @@
+
+My interrnid-CITS1866
+
 # Premium Real-Time Chat Application (MERN + Socket.IO)
 
 A full-stack, real-time private messaging application styled with a sleek glassmorphic modern layout (reminiscent of WhatsApp & Telegram). Featuring real-time message delivery, online/offline presence states, last seen timestamps, live typing indicators, unread message count badges, dark/light theme toggles, and infinite scrolling message history.
